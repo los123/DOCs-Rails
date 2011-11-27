@@ -1,0 +1,4 @@
+c:\RailsInstaller\work>heroku create
+Creating fierce-window-8413... done, stack is bamboo-mri-1.9.2
+http://fierce-window-8413.heroku.com/ | git@heroku.com:fierce-window-8413.git
+Git remote heroku added
